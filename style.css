@@ -1,7 +1,7 @@
 body{
     margin: 0;
     text-align: center;
-    background-image: url(basketball_bg.png);
+    background-image: url(Images/basketball_bg.png);
     background-size: cover;
     box-sizing: border-box;
 
@@ -53,10 +53,15 @@ h1{
 
 .score-card{
     background-color: #080001;
-    padding: 30px 55px 10px 55px;
+    padding: 30px 20px 10px 0px;
     margin-top: 22px;
     margin-bottom: 43px;
     border-radius: 15px;
+    width: 220px; 
+    display: flex;
+
+    justify-content: flex-end; 
+    padding-right: 20px;
 }
 
 .score-buttons{
@@ -76,6 +81,11 @@ h1{
     padding: 10px 10px 7px 10px;
     margin-bottom: 0px;
 }
+.score-btn:hover{
+    color: #C6D5FF;
+    border-color: #C6D5FF;
+    cursor: pointer;
+}
 
 #reset-btn{
     margin-top: 320px;
@@ -88,7 +98,12 @@ h1{
     border-radius: 10px;
 }
 
+#reset-btn:hover{
+    transform: scale(125%);
+    cursor: pointer;
+}
+
 @font-face{
-    src: url(CursedTimerUlil-Aznm.ttf);
+    src: url(Fonts/CursedTimerUlil-Aznm.ttf);
     font-family: customFont;
 }
