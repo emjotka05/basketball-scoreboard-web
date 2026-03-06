@@ -11,21 +11,21 @@
     <div id="card">
         <div class="card-section">
             <h3>HOME</h3>
-            <div class="score-card"><h1 id="home-score">0</h1></div>
+            <div class="score-card"><h1 id="home-score"></h1></div>
             <div class="score-buttons">
-                <button class="score-btn" id="home-add-1">+1</button>
-                <button class="score-btn" id="home-add-2">+2</button>
-                <button class="score-btn" id="home-add-3">+3</button> 
+                <button class="score-btn" onclick="homeAddOne()">+1</button>
+                <button class="score-btn" onclick="homeAddTwo()">+2</button>
+                <button class="score-btn" onclick="homeAddThree()">+3</button> 
             </div>
         </div>
-        <div><button id="reset-btn">Reset</button></div>
+        <div><button id="reset-btn" onclick="resetScore()">Reset</button></div>
         <div class="card-section">
             <h3>GUEST</h3>
-            <div class="score-card"><h1 id="guest-score">0</h1></div>
+            <div class="score-card"><h1 id="guest-score"></h1></div>
             <div class="score-buttons">
-                <button class="score-btn" id="guest-add-1">+1</button>
-                <button class="score-btn" id="guest-add-2">+2</button>
-                <button class="score-btn" id="guest-add-3">+3</button>   
+                <button class="score-btn" onclick="guestAddOne()">+1</button>
+                <button class="score-btn" onclick="guestAddTwo()">+2</button>
+                <button class="score-btn" onclick="guestAddThree()">+3</button>   
             </div>
         </div>
     </div>
