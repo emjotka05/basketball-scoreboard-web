@@ -2,6 +2,7 @@ body{
     margin: 0;
     text-align: center;
     background-image: url(basketball_bg.png);
+    background-size: cover;
 
 }
 
