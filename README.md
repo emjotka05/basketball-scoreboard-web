@@ -1,2 +1,16 @@
-# basketball-scoreboard-web
-Real-time basketball scoreboard application built with HTML, CSS and JavaScript.
+# [basketball-scoreboard-web]
+
+
+🔗 **Live Demo:** [TODO]
+
+## 🚀 Features
+
+* Responsive design
+* Clean and modern UI
+
+## 💻 Tech Stack
+
+* **HTML:** Semantic structure
+* **CSS:** Custom styling
+* **JavaScript:** DOM manipulation and interactivity
+
