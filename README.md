@@ -4,9 +4,9 @@ A fully responsive, interactive basketball scoreboard built with vanilla web tec
 
 ![Scoreboard Preview](Images/bsw.png) 
 
-
 ## 🚀 Live Demo
-[Click here to view the live project](LINK_DO_TWOJEGO_GITHUB_PAGES)
+[Click here to view the live project](https://emjotka05.github.io/basketball-scoreboard-web/)
+
 
 ## ✨ Features
 * **Interactive Scoring:** Buttons to add +1, +2, or +3 points for both HOME and GUEST teams.
@@ -19,4 +19,5 @@ A fully responsive, interactive basketball scoreboard built with vanilla web tec
 * **HTML5:** Semantic structure and accessibility.
 * **CSS3:** Flexbox layout, custom `@font-face`, media queries and hover/transition animations.
 * **JavaScript:** DOM manipulation, state management - score tracking and dynamic styling.
+* **Figma:** UI/UX design and layout planning. [View the original Figma design](https://www.figma.com/design/r6sq4w33E8i9BYDnbyLC4T/Basketball-Scoreboard?node-id=192313-76&t=jo5Epe8W1oQ2kiJ6-1)
 
