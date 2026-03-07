@@ -1,4 +1,4 @@
-#Basketball Scoreboard
+## #Basketball Scoreboard
 
 A fully responsive, interactive basketball scoreboard built with vanilla web technologies. This project simulates a real-life digital arena scoreboard with point tracking, neon highlight effects for the winning team, and a retro digital aesthetic.
 
